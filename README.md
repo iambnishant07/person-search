@@ -44,7 +44,7 @@ Person Search is a Next.js application that demonstrates how to implement a sear
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gocallum/person-search.git
+git clone https://github.com/iambnishant07/person-search.git
 cd person-search
 ```
 
